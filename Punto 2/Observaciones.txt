@@ -1,0 +1,6 @@
+OBSERVACIONES
+-	Se trabajo solo por identificación y no se utilizó la columna nombre ya que se identifica que en la tabla clientes hay 13 registros donde la misma identificación esta asociada a diferentes nombre.
+
+-	Se tienen 2 transacciones en las que la IDENTIFICACIÓN no tiene un cliente asociado en la tabla CLIENTES. 
+o	Identificación: 2C3D4E6F6G7H8I9J0
+o	Identificación: 2A3B4C5D E7F8G9H0
